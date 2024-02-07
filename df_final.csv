@@ -1,0 +1,256 @@
+"hospital","department","Avg_Rating","Code_of_Issues"
+"Sir.T hospital","Cardiology",4.52631578947368,1
+"Sir.T hospital","Cardiology",2.89473684210526,2
+"Sir.T hospital","Cardiology",2,3
+"Sir.T hospital","Cardiology",3.71052631578947,4
+"Sir.T hospital","Cardiology",2.60526315789474,5
+"Sir.T hospital","Cardiology",3.26315789473684,6
+"Sir.T hospital","Cardiology",2.92105263157895,7
+"Sir.T hospital","Cardiology",2.42105263157895,8
+"Sir.T hospital","Cardiology",3.28947368421053,9
+"Sir.T hospital","Cardiology",2.71052631578947,10
+"Sir.T hospital","Cardiology",2.86842105263158,11
+"Sir.T hospital","Cardiology",2.84210526315789,12
+"Sir.T hospital","Cardiology",1.73684210526316,13
+"Sir.T hospital","Cardiology",2.63157894736842,14
+"Sir.T hospital","Cardiology",2.42105263157895,15
+"Sir.T hospital","Cardiology",3.26315789473684,16
+"Sir.T hospital","Cardiology",1.15789473684211,17
+"Sir.T hospital","Neurology",4.51724137931035,1
+"Sir.T hospital","Neurology",2.41379310344828,2
+"Sir.T hospital","Neurology",1.72413793103448,3
+"Sir.T hospital","Neurology",3.79310344827586,4
+"Sir.T hospital","Neurology",2.68965517241379,5
+"Sir.T hospital","Neurology",2.79310344827586,6
+"Sir.T hospital","Neurology",2.89655172413793,7
+"Sir.T hospital","Neurology",2.41379310344828,8
+"Sir.T hospital","Neurology",3.27586206896552,9
+"Sir.T hospital","Neurology",2.86206896551724,10
+"Sir.T hospital","Neurology",3.03448275862069,11
+"Sir.T hospital","Neurology",2.62068965517241,12
+"Sir.T hospital","Neurology",1.68965517241379,13
+"Sir.T hospital","Neurology",2.89655172413793,14
+"Sir.T hospital","Neurology",2.41379310344828,15
+"Sir.T hospital","Neurology",2.79310344827586,16
+"Sir.T hospital","Neurology",1.13793103448276,17
+"Sir.T hospital","Orthopedics",4.56410256410256,1
+"Sir.T hospital","Orthopedics",2.28205128205128,2
+"Sir.T hospital","Orthopedics",1.71794871794872,3
+"Sir.T hospital","Orthopedics",3.53846153846154,4
+"Sir.T hospital","Orthopedics",2.43589743589744,5
+"Sir.T hospital","Orthopedics",2.53846153846154,6
+"Sir.T hospital","Orthopedics",2.56410256410256,7
+"Sir.T hospital","Orthopedics",2.17948717948718,8
+"Sir.T hospital","Orthopedics",3.28205128205128,9
+"Sir.T hospital","Orthopedics",2.84615384615385,10
+"Sir.T hospital","Orthopedics",2.76923076923077,11
+"Sir.T hospital","Orthopedics",2.53846153846154,12
+"Sir.T hospital","Orthopedics",1.8974358974359,13
+"Sir.T hospital","Orthopedics",2.74358974358974,14
+"Sir.T hospital","Orthopedics",2.17948717948718,15
+"Sir.T hospital","Orthopedics",2.53846153846154,16
+"Sir.T hospital","Orthopedics",1.12820512820513,17
+"Sir.T hospital","Pediatrics",4.60606060606061,1
+"Sir.T hospital","Pediatrics",2.36363636363636,2
+"Sir.T hospital","Pediatrics",1.90909090909091,3
+"Sir.T hospital","Pediatrics",3.45454545454545,4
+"Sir.T hospital","Pediatrics",2.51515151515152,5
+"Sir.T hospital","Pediatrics",2.60606060606061,6
+"Sir.T hospital","Pediatrics",2.45454545454545,7
+"Sir.T hospital","Pediatrics",2.45454545454545,8
+"Sir.T hospital","Pediatrics",3.21212121212121,9
+"Sir.T hospital","Pediatrics",2.27272727272727,10
+"Sir.T hospital","Pediatrics",2,11
+"Sir.T hospital","Pediatrics",2.42424242424242,12
+"Sir.T hospital","Pediatrics",1.75757575757576,13
+"Sir.T hospital","Pediatrics",2.51515151515152,14
+"Sir.T hospital","Pediatrics",2.45454545454545,15
+"Sir.T hospital","Pediatrics",2.60606060606061,16
+"Sir.T hospital","Pediatrics",1.33333333333333,17
+"Sir.T hospital","Dermatology",4.35294117647059,1
+"Sir.T hospital","Dermatology",2.70588235294118,2
+"Sir.T hospital","Dermatology",1.85294117647059,3
+"Sir.T hospital","Dermatology",3.67647058823529,4
+"Sir.T hospital","Dermatology",2.76470588235294,5
+"Sir.T hospital","Dermatology",2.91176470588235,6
+"Sir.T hospital","Dermatology",2.79411764705882,7
+"Sir.T hospital","Dermatology",2.41176470588235,8
+"Sir.T hospital","Dermatology",3.17647058823529,9
+"Sir.T hospital","Dermatology",2.85294117647059,10
+"Sir.T hospital","Dermatology",2.70588235294118,11
+"Sir.T hospital","Dermatology",2.70588235294118,12
+"Sir.T hospital","Dermatology",1.88235294117647,13
+"Sir.T hospital","Dermatology",2.79411764705882,14
+"Sir.T hospital","Dermatology",2.41176470588235,15
+"Sir.T hospital","Dermatology",2.91176470588235,16
+"Sir.T hospital","Dermatology",1.20588235294118,17
+"HCG hospital","Cardiology",4.71428571428571,1
+"HCG hospital","Cardiology",2.85714285714286,2
+"HCG hospital","Cardiology",1.78571428571429,3
+"HCG hospital","Cardiology",3.54761904761905,4
+"HCG hospital","Cardiology",2.73809523809524,5
+"HCG hospital","Cardiology",3.04761904761905,6
+"HCG hospital","Cardiology",2.95238095238095,7
+"HCG hospital","Cardiology",2.47619047619048,8
+"HCG hospital","Cardiology",3.4047619047619,9
+"HCG hospital","Cardiology",3.02380952380952,10
+"HCG hospital","Cardiology",3.02380952380952,11
+"HCG hospital","Cardiology",3.07142857142857,12
+"HCG hospital","Cardiology",1.92857142857143,13
+"HCG hospital","Cardiology",2.85714285714286,14
+"HCG hospital","Cardiology",2.47619047619048,15
+"HCG hospital","Cardiology",3.04761904761905,16
+"HCG hospital","Cardiology",1.26190476190476,17
+"HCG hospital","Neurology",4.52941176470588,1
+"HCG hospital","Neurology",2.41176470588235,2
+"HCG hospital","Neurology",1.70588235294118,3
+"HCG hospital","Neurology",3.26470588235294,4
+"HCG hospital","Neurology",2.58823529411765,5
+"HCG hospital","Neurology",2.91176470588235,6
+"HCG hospital","Neurology",2.64705882352941,7
+"HCG hospital","Neurology",2.76470588235294,8
+"HCG hospital","Neurology",3.05882352941176,9
+"HCG hospital","Neurology",2.47058823529412,10
+"HCG hospital","Neurology",2.41176470588235,11
+"HCG hospital","Neurology",2.73529411764706,12
+"HCG hospital","Neurology",1.76470588235294,13
+"HCG hospital","Neurology",2.61764705882353,14
+"HCG hospital","Neurology",2.76470588235294,15
+"HCG hospital","Neurology",2.91176470588235,16
+"HCG hospital","Neurology",1.14705882352941,17
+"HCG hospital","Orthopedics",4.41860465116279,1
+"HCG hospital","Orthopedics",2.67441860465116,2
+"HCG hospital","Orthopedics",1.88372093023256,3
+"HCG hospital","Orthopedics",3.65116279069767,4
+"HCG hospital","Orthopedics",2.32558139534884,5
+"HCG hospital","Orthopedics",2.81395348837209,6
+"HCG hospital","Orthopedics",3,7
+"HCG hospital","Orthopedics",2.55813953488372,8
+"HCG hospital","Orthopedics",3,9
+"HCG hospital","Orthopedics",3.04651162790698,10
+"HCG hospital","Orthopedics",2.93023255813953,11
+"HCG hospital","Orthopedics",2.83720930232558,12
+"HCG hospital","Orthopedics",1.90697674418605,13
+"HCG hospital","Orthopedics",2.7906976744186,14
+"HCG hospital","Orthopedics",2.55813953488372,15
+"HCG hospital","Orthopedics",2.81395348837209,16
+"HCG hospital","Orthopedics",1.13953488372093,17
+"HCG hospital","Pediatrics",4.45098039215686,1
+"HCG hospital","Pediatrics",2.82352941176471,2
+"HCG hospital","Pediatrics",1.96078431372549,3
+"HCG hospital","Pediatrics",3.58823529411765,4
+"HCG hospital","Pediatrics",2.45098039215686,5
+"HCG hospital","Pediatrics",2.90196078431373,6
+"HCG hospital","Pediatrics",3.05882352941176,7
+"HCG hospital","Pediatrics",2.84313725490196,8
+"HCG hospital","Pediatrics",3.62745098039216,9
+"HCG hospital","Pediatrics",2.96078431372549,10
+"HCG hospital","Pediatrics",2.98039215686275,11
+"HCG hospital","Pediatrics",2.56862745098039,12
+"HCG hospital","Pediatrics",1.82352941176471,13
+"HCG hospital","Pediatrics",2.80392156862745,14
+"HCG hospital","Pediatrics",2.84313725490196,15
+"HCG hospital","Pediatrics",2.90196078431373,16
+"HCG hospital","Pediatrics",1.25490196078431,17
+"HCG hospital","Dermatology",4.45454545454545,1
+"HCG hospital","Dermatology",2.59090909090909,2
+"HCG hospital","Dermatology",1.77272727272727,3
+"HCG hospital","Dermatology",3.40909090909091,4
+"HCG hospital","Dermatology",2.5,5
+"HCG hospital","Dermatology",2.65909090909091,6
+"HCG hospital","Dermatology",2.95454545454545,7
+"HCG hospital","Dermatology",2.5,8
+"HCG hospital","Dermatology",3.29545454545455,9
+"HCG hospital","Dermatology",2.68181818181818,10
+"HCG hospital","Dermatology",3.02272727272727,11
+"HCG hospital","Dermatology",2.77272727272727,12
+"HCG hospital","Dermatology",1.93181818181818,13
+"HCG hospital","Dermatology",2.81818181818182,14
+"HCG hospital","Dermatology",2.5,15
+"HCG hospital","Dermatology",2.65909090909091,16
+"HCG hospital","Dermatology",1.22727272727273,17
+"All","Cardiology",4.625,1
+"All","Cardiology",2.875,2
+"All","Cardiology",1.8875,3
+"All","Cardiology",3.625,4
+"All","Cardiology",2.675,5
+"All","Cardiology",3.15,6
+"All","Cardiology",2.9375,7
+"All","Cardiology",2.45,8
+"All","Cardiology",3.35,9
+"All","Cardiology",2.875,10
+"All","Cardiology",2.95,11
+"All","Cardiology",2.9625,12
+"All","Cardiology",1.8375,13
+"All","Cardiology",2.75,14
+"All","Cardiology",2.45,15
+"All","Cardiology",3.15,16
+"All","Cardiology",1.2125,17
+"All","Neurology",4.52380952380952,1
+"All","Neurology",2.41269841269841,2
+"All","Neurology",1.71428571428571,3
+"All","Neurology",3.50793650793651,4
+"All","Neurology",2.63492063492063,5
+"All","Neurology",2.85714285714286,6
+"All","Neurology",2.76190476190476,7
+"All","Neurology",2.6031746031746,8
+"All","Neurology",3.15873015873016,9
+"All","Neurology",2.65079365079365,10
+"All","Neurology",2.6984126984127,11
+"All","Neurology",2.68253968253968,12
+"All","Neurology",1.73015873015873,13
+"All","Neurology",2.74603174603175,14
+"All","Neurology",2.6031746031746,15
+"All","Neurology",2.85714285714286,16
+"All","Neurology",1.14285714285714,17
+"All","Orthopedics",4.48780487804878,1
+"All","Orthopedics",2.48780487804878,2
+"All","Orthopedics",1.80487804878049,3
+"All","Orthopedics",3.59756097560976,4
+"All","Orthopedics",2.3780487804878,5
+"All","Orthopedics",2.68292682926829,6
+"All","Orthopedics",2.79268292682927,7
+"All","Orthopedics",2.3780487804878,8
+"All","Orthopedics",3.13414634146341,9
+"All","Orthopedics",2.95121951219512,10
+"All","Orthopedics",2.85365853658537,11
+"All","Orthopedics",2.69512195121951,12
+"All","Orthopedics",1.90243902439024,13
+"All","Orthopedics",2.76829268292683,14
+"All","Orthopedics",2.3780487804878,15
+"All","Orthopedics",2.68292682926829,16
+"All","Orthopedics",1.13414634146341,17
+"All","Pediatrics",4.51190476190476,1
+"All","Pediatrics",2.64285714285714,2
+"All","Pediatrics",1.94047619047619,3
+"All","Pediatrics",3.53571428571429,4
+"All","Pediatrics",2.47619047619048,5
+"All","Pediatrics",2.78571428571429,6
+"All","Pediatrics",2.82142857142857,7
+"All","Pediatrics",2.69047619047619,8
+"All","Pediatrics",3.46428571428571,9
+"All","Pediatrics",2.69047619047619,10
+"All","Pediatrics",2.5952380952381,11
+"All","Pediatrics",2.51190476190476,12
+"All","Pediatrics",1.79761904761905,13
+"All","Pediatrics",2.69047619047619,14
+"All","Pediatrics",2.69047619047619,15
+"All","Pediatrics",2.78571428571429,16
+"All","Pediatrics",1.28571428571429,17
+"All","Dermatology",4.41025641025641,1
+"All","Dermatology",2.64102564102564,2
+"All","Dermatology",1.80769230769231,3
+"All","Dermatology",3.52564102564103,4
+"All","Dermatology",2.61538461538462,5
+"All","Dermatology",2.76923076923077,6
+"All","Dermatology",2.88461538461538,7
+"All","Dermatology",2.46153846153846,8
+"All","Dermatology",3.24358974358974,9
+"All","Dermatology",2.75641025641026,10
+"All","Dermatology",2.88461538461538,11
+"All","Dermatology",2.74358974358974,12
+"All","Dermatology",1.91025641025641,13
+"All","Dermatology",2.80769230769231,14
+"All","Dermatology",2.46153846153846,15
+"All","Dermatology",2.76923076923077,16
+"All","Dermatology",1.21794871794872,17
